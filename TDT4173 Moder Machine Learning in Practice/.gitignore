@@ -1,0 +1,5 @@
+.venv/
+
+ais_train.csv
+
+sklearn-env/
